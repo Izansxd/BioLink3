@@ -1,12 +1,12 @@
 // Objek untuk menyimpan semua pengaturan profil
 const profileSettings = {
-  favicon: "media/vynaa.jpg", // Path ke favicon
+  favicon: "media/Izans.jpeg", // Path ke favicon
   title: "Izansxd | Profile", // Judul halaman
   metaTitle: "Izans || Profile", // Meta title untuk SEO
   metaDescription: "Profile Website Izansxd, Creator and Dev", // Deskripsi meta untuk SEO
   metaKeywords: "Izans, Izansxd, profile Izans, siapa Izans?", // Keywords meta untuk SEO
   metaRobots: "index, follow", // Pengaturan robot meta untuk SEO
-  imageSrc: "media/izans.jpg", // Path ke gambar profil
+  imageSrc: "media/Izans.jpeg", // Path ke gambar profil
   name: "Izansxd", // Nama profil
   occupation: "Creator & Developer", // Pekerjaan atau jabatan
   links: [
