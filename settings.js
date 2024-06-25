@@ -1,13 +1,13 @@
 // Objek untuk menyimpan semua pengaturan profil
 const profileSettings = {
   favicon: "media/vynaa.jpg", // Path ke favicon
-  title: "Vynaa Valerie | Profile", // Judul halaman
-  metaTitle: "Vynaa || Profile", // Meta title untuk SEO
-  metaDescription: "Profile Website Vynaa Valerie, Creator and Dev", // Deskripsi meta untuk SEO
-  metaKeywords: "Vynaa, Vynaa Valerie, profile Vynaa, siapa Vynaa?", // Keywords meta untuk SEO
+  title: "Izansxd | Profile", // Judul halaman
+  metaTitle: "Izans || Profile", // Meta title untuk SEO
+  metaDescription: "Profile Website Izansxd, Creator and Dev", // Deskripsi meta untuk SEO
+  metaKeywords: "Izans, Izansxd, profile Izans, siapa Izans?", // Keywords meta untuk SEO
   metaRobots: "index, follow", // Pengaturan robot meta untuk SEO
-  imageSrc: "media/vynaa.jpg", // Path ke gambar profil
-  name: "Vynaa Valerie", // Nama profil
+  imageSrc: "media/izans.jpg", // Path ke gambar profil
+  name: "Izansxd", // Nama profil
   occupation: "Creator & Developer", // Pekerjaan atau jabatan
   links: [
     { title: "GitHub", url: "https://github.com/VynaaValerie", icon: "fa-github" }, // Tautan GitHub
