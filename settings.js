@@ -1,21 +1,21 @@
 // Objek untuk menyimpan semua pengaturan profil
 const profileSettings = {
-  favicon: "media/Izans.jpeg", // Path ke favicon
+  favicon: "media/Izansxd.jpeg", // Path ke favicon
   title: "Izansxd | Profile", // Judul halaman
   metaTitle: "Izans || Profile", // Meta title untuk SEO
   metaDescription: "Profile Website Izansxd, Creator and Dev", // Deskripsi meta untuk SEO
   metaKeywords: "Izans, Izansxd, profile Izans, siapa Izans?", // Keywords meta untuk SEO
   metaRobots: "index, follow", // Pengaturan robot meta untuk SEO
-  imageSrc: "media/Izans.jpeg", // Path ke gambar profil
+  imageSrc: "media/Izansxd.jpeg", // Path ke gambar profil
   name: "Izansxd", // Nama profil
   occupation: "Creator & Developer", // Pekerjaan atau jabatan
   links: [
-    { title: "GitHub", url: "https://github.com/VynaaValerie", icon: "fa-github" }, // Tautan GitHub
-    { title: "Instagram", url: "https://www.instagram.com/vynaa_valerie", icon: "fa-instagram" }, // Tautan Instagram
-    { title: "Telegram", url: "https://t.me/VLShop2", icon: "fa-telegram" }, // Tautan Telegram
-    { title: "Email", url: "mailto:vynaavalerie@example.com", icon: "fa-envelope" }, // Tautan Email
-    { title: "WhatsApp", url: "https://wa.me/6282389924037?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
-    { title: "YouTube", url: "https://youtube.com/@VynaaChan", icon: "fa-youtube" } // Tautan YouTube
+    { title: "GitHub", url: "https://github.com/Izansxd", icon: "fa-github" }, // Tautan GitHub
+    { title: "Instagram", url: "https://www.instagram.com/fazaaliskyramadan1", icon: "fa-instagram" }, // Tautan Instagram
+    { title: "Telegram", url: "https://t.me/izansxd", icon: "fa-telegram" }, // Tautan Telegram
+    { title: "Email", url: "mailto:izansxd272@gmail.com", icon: "fa-envelope" }, // Tautan Email
+    { title: "WhatsApp", url: "https://wa.me/6282298627146?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
+    { title: "YouTube", url: "https://youtube.com/@izansdev", icon: "fa-youtube" } // Tautan YouTube
   ]
 };
 
