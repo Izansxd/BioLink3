@@ -12,7 +12,6 @@ const profileSettings = {
   links: [
     { title: "GitHub", url: "https://github.com/Izansxd", icon: "fa-github" }, // Tautan GitHub
     { title: "Instagram", url: "https://www.instagram.com/fazaaliskyramadan1", icon: "fa-instagram" }, // Tautan Instagram
-    { title: "Telegram", url: "https://t.me/izansxd", icon: "fa-telegram" }, // Tautan Telegram
     { title: "Email", url: "mailto:izansxd272@gmail.com", icon: "fa-envelope" }, // Tautan Email
     { title: "WhatsApp", url: "https://wa.me/6282298627146?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
     { title: "YouTube", url: "https://youtube.com/@izansdev", icon: "fa-youtube" } // Tautan YouTube
